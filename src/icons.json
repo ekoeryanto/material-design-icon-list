@@ -1,0 +1,3733 @@
+[
+  {
+    "name": "3d_rotation",
+    "unicode": "e84d"
+  },
+  {
+    "name": "ac_unit",
+    "unicode": "eb3b"
+  },
+  {
+    "name": "access_alarm",
+    "unicode": "e190"
+  },
+  {
+    "name": "access_alarms",
+    "unicode": "e191"
+  },
+  {
+    "name": "access_time",
+    "unicode": "e192"
+  },
+  {
+    "name": "accessibility",
+    "unicode": "e84e"
+  },
+  {
+    "name": "accessible",
+    "unicode": "e914"
+  },
+  {
+    "name": "account_balance",
+    "unicode": "e84f"
+  },
+  {
+    "name": "account_balance_wallet",
+    "unicode": "e850"
+  },
+  {
+    "name": "account_box",
+    "unicode": "e851"
+  },
+  {
+    "name": "account_circle",
+    "unicode": "e853"
+  },
+  {
+    "name": "adb",
+    "unicode": "e60e"
+  },
+  {
+    "name": "add",
+    "unicode": "e145"
+  },
+  {
+    "name": "add_a_photo",
+    "unicode": "e439"
+  },
+  {
+    "name": "add_alarm",
+    "unicode": "e193"
+  },
+  {
+    "name": "add_alert",
+    "unicode": "e003"
+  },
+  {
+    "name": "add_box",
+    "unicode": "e146"
+  },
+  {
+    "name": "add_circle",
+    "unicode": "e147"
+  },
+  {
+    "name": "add_circle_outline",
+    "unicode": "e148"
+  },
+  {
+    "name": "add_location",
+    "unicode": "e567"
+  },
+  {
+    "name": "add_shopping_cart",
+    "unicode": "e854"
+  },
+  {
+    "name": "add_to_photos",
+    "unicode": "e39d"
+  },
+  {
+    "name": "add_to_queue",
+    "unicode": "e05c"
+  },
+  {
+    "name": "adjust",
+    "unicode": "e39e"
+  },
+  {
+    "name": "airline_seat_flat",
+    "unicode": "e630"
+  },
+  {
+    "name": "airline_seat_flat_angled",
+    "unicode": "e631"
+  },
+  {
+    "name": "airline_seat_individual_suite",
+    "unicode": "e632"
+  },
+  {
+    "name": "airline_seat_legroom_extra",
+    "unicode": "e633"
+  },
+  {
+    "name": "airline_seat_legroom_normal",
+    "unicode": "e634"
+  },
+  {
+    "name": "airline_seat_legroom_reduced",
+    "unicode": "e635"
+  },
+  {
+    "name": "airline_seat_recline_extra",
+    "unicode": "e636"
+  },
+  {
+    "name": "airline_seat_recline_normal",
+    "unicode": "e637"
+  },
+  {
+    "name": "airplanemode_active",
+    "unicode": "e195"
+  },
+  {
+    "name": "airplanemode_inactive",
+    "unicode": "e194"
+  },
+  {
+    "name": "airplay",
+    "unicode": "e055"
+  },
+  {
+    "name": "airport_shuttle",
+    "unicode": "eb3c"
+  },
+  {
+    "name": "alarm",
+    "unicode": "e855"
+  },
+  {
+    "name": "alarm_add",
+    "unicode": "e856"
+  },
+  {
+    "name": "alarm_off",
+    "unicode": "e857"
+  },
+  {
+    "name": "alarm_on",
+    "unicode": "e858"
+  },
+  {
+    "name": "album",
+    "unicode": "e019"
+  },
+  {
+    "name": "all_inclusive",
+    "unicode": "eb3d"
+  },
+  {
+    "name": "all_out",
+    "unicode": "e90b"
+  },
+  {
+    "name": "android",
+    "unicode": "e859"
+  },
+  {
+    "name": "announcement",
+    "unicode": "e85a"
+  },
+  {
+    "name": "apps",
+    "unicode": "e5c3"
+  },
+  {
+    "name": "archive",
+    "unicode": "e149"
+  },
+  {
+    "name": "arrow_back",
+    "unicode": "e5c4"
+  },
+  {
+    "name": "arrow_downward",
+    "unicode": "e5db"
+  },
+  {
+    "name": "arrow_drop_down",
+    "unicode": "e5c5"
+  },
+  {
+    "name": "arrow_drop_down_circle",
+    "unicode": "e5c6"
+  },
+  {
+    "name": "arrow_drop_up",
+    "unicode": "e5c7"
+  },
+  {
+    "name": "arrow_forward",
+    "unicode": "e5c8"
+  },
+  {
+    "name": "arrow_upward",
+    "unicode": "e5d8"
+  },
+  {
+    "name": "art_track",
+    "unicode": "e060"
+  },
+  {
+    "name": "aspect_ratio",
+    "unicode": "e85b"
+  },
+  {
+    "name": "assessment",
+    "unicode": "e85c"
+  },
+  {
+    "name": "assignment",
+    "unicode": "e85d"
+  },
+  {
+    "name": "assignment_ind",
+    "unicode": "e85e"
+  },
+  {
+    "name": "assignment_late",
+    "unicode": "e85f"
+  },
+  {
+    "name": "assignment_return",
+    "unicode": "e860"
+  },
+  {
+    "name": "assignment_returned",
+    "unicode": "e861"
+  },
+  {
+    "name": "assignment_turned_in",
+    "unicode": "e862"
+  },
+  {
+    "name": "assistant",
+    "unicode": "e39f"
+  },
+  {
+    "name": "assistant_photo",
+    "unicode": "e3a0"
+  },
+  {
+    "name": "attach_file",
+    "unicode": "e226"
+  },
+  {
+    "name": "attach_money",
+    "unicode": "e227"
+  },
+  {
+    "name": "attachment",
+    "unicode": "e2bc"
+  },
+  {
+    "name": "audiotrack",
+    "unicode": "e3a1"
+  },
+  {
+    "name": "autorenew",
+    "unicode": "e863"
+  },
+  {
+    "name": "av_timer",
+    "unicode": "e01b"
+  },
+  {
+    "name": "backspace",
+    "unicode": "e14a"
+  },
+  {
+    "name": "backup",
+    "unicode": "e864"
+  },
+  {
+    "name": "battery_alert",
+    "unicode": "e19c"
+  },
+  {
+    "name": "battery_charging_full",
+    "unicode": "e1a3"
+  },
+  {
+    "name": "battery_full",
+    "unicode": "e1a4"
+  },
+  {
+    "name": "battery_std",
+    "unicode": "e1a5"
+  },
+  {
+    "name": "battery_unknown",
+    "unicode": "e1a6"
+  },
+  {
+    "name": "beach_access",
+    "unicode": "eb3e"
+  },
+  {
+    "name": "beenhere",
+    "unicode": "e52d"
+  },
+  {
+    "name": "block",
+    "unicode": "e14b"
+  },
+  {
+    "name": "bluetooth",
+    "unicode": "e1a7"
+  },
+  {
+    "name": "bluetooth_audio",
+    "unicode": "e60f"
+  },
+  {
+    "name": "bluetooth_connected",
+    "unicode": "e1a8"
+  },
+  {
+    "name": "bluetooth_disabled",
+    "unicode": "e1a9"
+  },
+  {
+    "name": "bluetooth_searching",
+    "unicode": "e1aa"
+  },
+  {
+    "name": "blur_circular",
+    "unicode": "e3a2"
+  },
+  {
+    "name": "blur_linear",
+    "unicode": "e3a3"
+  },
+  {
+    "name": "blur_off",
+    "unicode": "e3a4"
+  },
+  {
+    "name": "blur_on",
+    "unicode": "e3a5"
+  },
+  {
+    "name": "book",
+    "unicode": "e865"
+  },
+  {
+    "name": "bookmark",
+    "unicode": "e866"
+  },
+  {
+    "name": "bookmark_border",
+    "unicode": "e867"
+  },
+  {
+    "name": "border_all",
+    "unicode": "e228"
+  },
+  {
+    "name": "border_bottom",
+    "unicode": "e229"
+  },
+  {
+    "name": "border_clear",
+    "unicode": "e22a"
+  },
+  {
+    "name": "border_color",
+    "unicode": "e22b"
+  },
+  {
+    "name": "border_horizontal",
+    "unicode": "e22c"
+  },
+  {
+    "name": "border_inner",
+    "unicode": "e22d"
+  },
+  {
+    "name": "border_left",
+    "unicode": "e22e"
+  },
+  {
+    "name": "border_outer",
+    "unicode": "e22f"
+  },
+  {
+    "name": "border_right",
+    "unicode": "e230"
+  },
+  {
+    "name": "border_style",
+    "unicode": "e231"
+  },
+  {
+    "name": "border_top",
+    "unicode": "e232"
+  },
+  {
+    "name": "border_vertical",
+    "unicode": "e233"
+  },
+  {
+    "name": "branding_watermark",
+    "unicode": "e06b"
+  },
+  {
+    "name": "brightness_1",
+    "unicode": "e3a6"
+  },
+  {
+    "name": "brightness_2",
+    "unicode": "e3a7"
+  },
+  {
+    "name": "brightness_3",
+    "unicode": "e3a8"
+  },
+  {
+    "name": "brightness_4",
+    "unicode": "e3a9"
+  },
+  {
+    "name": "brightness_5",
+    "unicode": "e3aa"
+  },
+  {
+    "name": "brightness_6",
+    "unicode": "e3ab"
+  },
+  {
+    "name": "brightness_7",
+    "unicode": "e3ac"
+  },
+  {
+    "name": "brightness_auto",
+    "unicode": "e1ab"
+  },
+  {
+    "name": "brightness_high",
+    "unicode": "e1ac"
+  },
+  {
+    "name": "brightness_low",
+    "unicode": "e1ad"
+  },
+  {
+    "name": "brightness_medium",
+    "unicode": "e1ae"
+  },
+  {
+    "name": "broken_image",
+    "unicode": "e3ad"
+  },
+  {
+    "name": "brush",
+    "unicode": "e3ae"
+  },
+  {
+    "name": "bubble_chart",
+    "unicode": "e6dd"
+  },
+  {
+    "name": "bug_report",
+    "unicode": "e868"
+  },
+  {
+    "name": "build",
+    "unicode": "e869"
+  },
+  {
+    "name": "burst_mode",
+    "unicode": "e43c"
+  },
+  {
+    "name": "business",
+    "unicode": "e0af"
+  },
+  {
+    "name": "business_center",
+    "unicode": "eb3f"
+  },
+  {
+    "name": "cached",
+    "unicode": "e86a"
+  },
+  {
+    "name": "cake",
+    "unicode": "e7e9"
+  },
+  {
+    "name": "call",
+    "unicode": "e0b0"
+  },
+  {
+    "name": "call_end",
+    "unicode": "e0b1"
+  },
+  {
+    "name": "call_made",
+    "unicode": "e0b2"
+  },
+  {
+    "name": "call_merge",
+    "unicode": "e0b3"
+  },
+  {
+    "name": "call_missed",
+    "unicode": "e0b4"
+  },
+  {
+    "name": "call_missed_outgoing",
+    "unicode": "e0e4"
+  },
+  {
+    "name": "call_received",
+    "unicode": "e0b5"
+  },
+  {
+    "name": "call_split",
+    "unicode": "e0b6"
+  },
+  {
+    "name": "call_to_action",
+    "unicode": "e06c"
+  },
+  {
+    "name": "camera",
+    "unicode": "e3af"
+  },
+  {
+    "name": "camera_alt",
+    "unicode": "e3b0"
+  },
+  {
+    "name": "camera_enhance",
+    "unicode": "e8fc"
+  },
+  {
+    "name": "camera_front",
+    "unicode": "e3b1"
+  },
+  {
+    "name": "camera_rear",
+    "unicode": "e3b2"
+  },
+  {
+    "name": "camera_roll",
+    "unicode": "e3b3"
+  },
+  {
+    "name": "cancel",
+    "unicode": "e5c9"
+  },
+  {
+    "name": "card_giftcard",
+    "unicode": "e8f6"
+  },
+  {
+    "name": "card_membership",
+    "unicode": "e8f7"
+  },
+  {
+    "name": "card_travel",
+    "unicode": "e8f8"
+  },
+  {
+    "name": "casino",
+    "unicode": "eb40"
+  },
+  {
+    "name": "cast",
+    "unicode": "e307"
+  },
+  {
+    "name": "cast_connected",
+    "unicode": "e308"
+  },
+  {
+    "name": "center_focus_strong",
+    "unicode": "e3b4"
+  },
+  {
+    "name": "center_focus_weak",
+    "unicode": "e3b5"
+  },
+  {
+    "name": "change_history",
+    "unicode": "e86b"
+  },
+  {
+    "name": "chat",
+    "unicode": "e0b7"
+  },
+  {
+    "name": "chat_bubble",
+    "unicode": "e0ca"
+  },
+  {
+    "name": "chat_bubble_outline",
+    "unicode": "e0cb"
+  },
+  {
+    "name": "check",
+    "unicode": "e5ca"
+  },
+  {
+    "name": "check_box",
+    "unicode": "e834"
+  },
+  {
+    "name": "check_box_outline_blank",
+    "unicode": "e835"
+  },
+  {
+    "name": "check_circle",
+    "unicode": "e86c"
+  },
+  {
+    "name": "chevron_left",
+    "unicode": "e5cb"
+  },
+  {
+    "name": "chevron_right",
+    "unicode": "e5cc"
+  },
+  {
+    "name": "child_care",
+    "unicode": "eb41"
+  },
+  {
+    "name": "child_friendly",
+    "unicode": "eb42"
+  },
+  {
+    "name": "chrome_reader_mode",
+    "unicode": "e86d"
+  },
+  {
+    "name": "class",
+    "unicode": "e86e"
+  },
+  {
+    "name": "clear",
+    "unicode": "e14c"
+  },
+  {
+    "name": "clear_all",
+    "unicode": "e0b8"
+  },
+  {
+    "name": "close",
+    "unicode": "e5cd"
+  },
+  {
+    "name": "closed_caption",
+    "unicode": "e01c"
+  },
+  {
+    "name": "cloud",
+    "unicode": "e2bd"
+  },
+  {
+    "name": "cloud_circle",
+    "unicode": "e2be"
+  },
+  {
+    "name": "cloud_done",
+    "unicode": "e2bf"
+  },
+  {
+    "name": "cloud_download",
+    "unicode": "e2c0"
+  },
+  {
+    "name": "cloud_off",
+    "unicode": "e2c1"
+  },
+  {
+    "name": "cloud_queue",
+    "unicode": "e2c2"
+  },
+  {
+    "name": "cloud_upload",
+    "unicode": "e2c3"
+  },
+  {
+    "name": "code",
+    "unicode": "e86f"
+  },
+  {
+    "name": "collections",
+    "unicode": "e3b6"
+  },
+  {
+    "name": "collections_bookmark",
+    "unicode": "e431"
+  },
+  {
+    "name": "color_lens",
+    "unicode": "e3b7"
+  },
+  {
+    "name": "colorize",
+    "unicode": "e3b8"
+  },
+  {
+    "name": "comment",
+    "unicode": "e0b9"
+  },
+  {
+    "name": "compare",
+    "unicode": "e3b9"
+  },
+  {
+    "name": "compare_arrows",
+    "unicode": "e915"
+  },
+  {
+    "name": "computer",
+    "unicode": "e30a"
+  },
+  {
+    "name": "confirmation_number",
+    "unicode": "e638"
+  },
+  {
+    "name": "contact_mail",
+    "unicode": "e0d0"
+  },
+  {
+    "name": "contact_phone",
+    "unicode": "e0cf"
+  },
+  {
+    "name": "contacts",
+    "unicode": "e0ba"
+  },
+  {
+    "name": "content_copy",
+    "unicode": "e14d"
+  },
+  {
+    "name": "content_cut",
+    "unicode": "e14e"
+  },
+  {
+    "name": "content_paste",
+    "unicode": "e14f"
+  },
+  {
+    "name": "control_point",
+    "unicode": "e3ba"
+  },
+  {
+    "name": "control_point_duplicate",
+    "unicode": "e3bb"
+  },
+  {
+    "name": "copyright",
+    "unicode": "e90c"
+  },
+  {
+    "name": "create",
+    "unicode": "e150"
+  },
+  {
+    "name": "create_new_folder",
+    "unicode": "e2cc"
+  },
+  {
+    "name": "credit_card",
+    "unicode": "e870"
+  },
+  {
+    "name": "crop",
+    "unicode": "e3be"
+  },
+  {
+    "name": "crop_16_9",
+    "unicode": "e3bc"
+  },
+  {
+    "name": "crop_3_2",
+    "unicode": "e3bd"
+  },
+  {
+    "name": "crop_5_4",
+    "unicode": "e3bf"
+  },
+  {
+    "name": "crop_7_5",
+    "unicode": "e3c0"
+  },
+  {
+    "name": "crop_din",
+    "unicode": "e3c1"
+  },
+  {
+    "name": "crop_free",
+    "unicode": "e3c2"
+  },
+  {
+    "name": "crop_landscape",
+    "unicode": "e3c3"
+  },
+  {
+    "name": "crop_original",
+    "unicode": "e3c4"
+  },
+  {
+    "name": "crop_portrait",
+    "unicode": "e3c5"
+  },
+  {
+    "name": "crop_rotate",
+    "unicode": "e437"
+  },
+  {
+    "name": "crop_square",
+    "unicode": "e3c6"
+  },
+  {
+    "name": "dashboard",
+    "unicode": "e871"
+  },
+  {
+    "name": "data_usage",
+    "unicode": "e1af"
+  },
+  {
+    "name": "date_range",
+    "unicode": "e916"
+  },
+  {
+    "name": "dehaze",
+    "unicode": "e3c7"
+  },
+  {
+    "name": "delete",
+    "unicode": "e872"
+  },
+  {
+    "name": "delete_forever",
+    "unicode": "e92b"
+  },
+  {
+    "name": "delete_sweep",
+    "unicode": "e16c"
+  },
+  {
+    "name": "description",
+    "unicode": "e873"
+  },
+  {
+    "name": "desktop_mac",
+    "unicode": "e30b"
+  },
+  {
+    "name": "desktop_windows",
+    "unicode": "e30c"
+  },
+  {
+    "name": "details",
+    "unicode": "e3c8"
+  },
+  {
+    "name": "developer_board",
+    "unicode": "e30d"
+  },
+  {
+    "name": "developer_mode",
+    "unicode": "e1b0"
+  },
+  {
+    "name": "device_hub",
+    "unicode": "e335"
+  },
+  {
+    "name": "devices",
+    "unicode": "e1b1"
+  },
+  {
+    "name": "devices_other",
+    "unicode": "e337"
+  },
+  {
+    "name": "dialer_sip",
+    "unicode": "e0bb"
+  },
+  {
+    "name": "dialpad",
+    "unicode": "e0bc"
+  },
+  {
+    "name": "directions",
+    "unicode": "e52e"
+  },
+  {
+    "name": "directions_bike",
+    "unicode": "e52f"
+  },
+  {
+    "name": "directions_boat",
+    "unicode": "e532"
+  },
+  {
+    "name": "directions_bus",
+    "unicode": "e530"
+  },
+  {
+    "name": "directions_car",
+    "unicode": "e531"
+  },
+  {
+    "name": "directions_railway",
+    "unicode": "e534"
+  },
+  {
+    "name": "directions_run",
+    "unicode": "e566"
+  },
+  {
+    "name": "directions_subway",
+    "unicode": "e533"
+  },
+  {
+    "name": "directions_transit",
+    "unicode": "e535"
+  },
+  {
+    "name": "directions_walk",
+    "unicode": "e536"
+  },
+  {
+    "name": "disc_full",
+    "unicode": "e610"
+  },
+  {
+    "name": "dns",
+    "unicode": "e875"
+  },
+  {
+    "name": "do_not_disturb",
+    "unicode": "e612"
+  },
+  {
+    "name": "do_not_disturb_alt",
+    "unicode": "e611"
+  },
+  {
+    "name": "do_not_disturb_off",
+    "unicode": "e643"
+  },
+  {
+    "name": "do_not_disturb_on",
+    "unicode": "e644"
+  },
+  {
+    "name": "dock",
+    "unicode": "e30e"
+  },
+  {
+    "name": "domain",
+    "unicode": "e7ee"
+  },
+  {
+    "name": "done",
+    "unicode": "e876"
+  },
+  {
+    "name": "done_all",
+    "unicode": "e877"
+  },
+  {
+    "name": "donut_large",
+    "unicode": "e917"
+  },
+  {
+    "name": "donut_small",
+    "unicode": "e918"
+  },
+  {
+    "name": "drafts",
+    "unicode": "e151"
+  },
+  {
+    "name": "drag_handle",
+    "unicode": "e25d"
+  },
+  {
+    "name": "drive_eta",
+    "unicode": "e613"
+  },
+  {
+    "name": "dvr",
+    "unicode": "e1b2"
+  },
+  {
+    "name": "edit",
+    "unicode": "e3c9"
+  },
+  {
+    "name": "edit_location",
+    "unicode": "e568"
+  },
+  {
+    "name": "eject",
+    "unicode": "e8fb"
+  },
+  {
+    "name": "email",
+    "unicode": "e0be"
+  },
+  {
+    "name": "enhanced_encryption",
+    "unicode": "e63f"
+  },
+  {
+    "name": "equalizer",
+    "unicode": "e01d"
+  },
+  {
+    "name": "error",
+    "unicode": "e000"
+  },
+  {
+    "name": "error_outline",
+    "unicode": "e001"
+  },
+  {
+    "name": "euro_symbol",
+    "unicode": "e926"
+  },
+  {
+    "name": "ev_station",
+    "unicode": "e56d"
+  },
+  {
+    "name": "event",
+    "unicode": "e878"
+  },
+  {
+    "name": "event_available",
+    "unicode": "e614"
+  },
+  {
+    "name": "event_busy",
+    "unicode": "e615"
+  },
+  {
+    "name": "event_note",
+    "unicode": "e616"
+  },
+  {
+    "name": "event_seat",
+    "unicode": "e903"
+  },
+  {
+    "name": "exit_to_app",
+    "unicode": "e879"
+  },
+  {
+    "name": "expand_less",
+    "unicode": "e5ce"
+  },
+  {
+    "name": "expand_more",
+    "unicode": "e5cf"
+  },
+  {
+    "name": "explicit",
+    "unicode": "e01e"
+  },
+  {
+    "name": "explore",
+    "unicode": "e87a"
+  },
+  {
+    "name": "exposure",
+    "unicode": "e3ca"
+  },
+  {
+    "name": "exposure_neg_1",
+    "unicode": "e3cb"
+  },
+  {
+    "name": "exposure_neg_2",
+    "unicode": "e3cc"
+  },
+  {
+    "name": "exposure_plus_1",
+    "unicode": "e3cd"
+  },
+  {
+    "name": "exposure_plus_2",
+    "unicode": "e3ce"
+  },
+  {
+    "name": "exposure_zero",
+    "unicode": "e3cf"
+  },
+  {
+    "name": "extension",
+    "unicode": "e87b"
+  },
+  {
+    "name": "face",
+    "unicode": "e87c"
+  },
+  {
+    "name": "fast_forward",
+    "unicode": "e01f"
+  },
+  {
+    "name": "fast_rewind",
+    "unicode": "e020"
+  },
+  {
+    "name": "favorite",
+    "unicode": "e87d"
+  },
+  {
+    "name": "favorite_border",
+    "unicode": "e87e"
+  },
+  {
+    "name": "featured_play_list",
+    "unicode": "e06d"
+  },
+  {
+    "name": "featured_video",
+    "unicode": "e06e"
+  },
+  {
+    "name": "feedback",
+    "unicode": "e87f"
+  },
+  {
+    "name": "fiber_dvr",
+    "unicode": "e05d"
+  },
+  {
+    "name": "fiber_manual_record",
+    "unicode": "e061"
+  },
+  {
+    "name": "fiber_new",
+    "unicode": "e05e"
+  },
+  {
+    "name": "fiber_pin",
+    "unicode": "e06a"
+  },
+  {
+    "name": "fiber_smart_record",
+    "unicode": "e062"
+  },
+  {
+    "name": "file_download",
+    "unicode": "e2c4"
+  },
+  {
+    "name": "file_upload",
+    "unicode": "e2c6"
+  },
+  {
+    "name": "filter",
+    "unicode": "e3d3"
+  },
+  {
+    "name": "filter_1",
+    "unicode": "e3d0"
+  },
+  {
+    "name": "filter_2",
+    "unicode": "e3d1"
+  },
+  {
+    "name": "filter_3",
+    "unicode": "e3d2"
+  },
+  {
+    "name": "filter_4",
+    "unicode": "e3d4"
+  },
+  {
+    "name": "filter_5",
+    "unicode": "e3d5"
+  },
+  {
+    "name": "filter_6",
+    "unicode": "e3d6"
+  },
+  {
+    "name": "filter_7",
+    "unicode": "e3d7"
+  },
+  {
+    "name": "filter_8",
+    "unicode": "e3d8"
+  },
+  {
+    "name": "filter_9",
+    "unicode": "e3d9"
+  },
+  {
+    "name": "filter_9_plus",
+    "unicode": "e3da"
+  },
+  {
+    "name": "filter_b_and_w",
+    "unicode": "e3db"
+  },
+  {
+    "name": "filter_center_focus",
+    "unicode": "e3dc"
+  },
+  {
+    "name": "filter_drama",
+    "unicode": "e3dd"
+  },
+  {
+    "name": "filter_frames",
+    "unicode": "e3de"
+  },
+  {
+    "name": "filter_hdr",
+    "unicode": "e3df"
+  },
+  {
+    "name": "filter_list",
+    "unicode": "e152"
+  },
+  {
+    "name": "filter_none",
+    "unicode": "e3e0"
+  },
+  {
+    "name": "filter_tilt_shift",
+    "unicode": "e3e2"
+  },
+  {
+    "name": "filter_vintage",
+    "unicode": "e3e3"
+  },
+  {
+    "name": "find_in_page",
+    "unicode": "e880"
+  },
+  {
+    "name": "find_replace",
+    "unicode": "e881"
+  },
+  {
+    "name": "fingerprint",
+    "unicode": "e90d"
+  },
+  {
+    "name": "first_page",
+    "unicode": "e5dc"
+  },
+  {
+    "name": "fitness_center",
+    "unicode": "eb43"
+  },
+  {
+    "name": "flag",
+    "unicode": "e153"
+  },
+  {
+    "name": "flare",
+    "unicode": "e3e4"
+  },
+  {
+    "name": "flash_auto",
+    "unicode": "e3e5"
+  },
+  {
+    "name": "flash_off",
+    "unicode": "e3e6"
+  },
+  {
+    "name": "flash_on",
+    "unicode": "e3e7"
+  },
+  {
+    "name": "flight",
+    "unicode": "e539"
+  },
+  {
+    "name": "flight_land",
+    "unicode": "e904"
+  },
+  {
+    "name": "flight_takeoff",
+    "unicode": "e905"
+  },
+  {
+    "name": "flip",
+    "unicode": "e3e8"
+  },
+  {
+    "name": "flip_to_back",
+    "unicode": "e882"
+  },
+  {
+    "name": "flip_to_front",
+    "unicode": "e883"
+  },
+  {
+    "name": "folder",
+    "unicode": "e2c7"
+  },
+  {
+    "name": "folder_open",
+    "unicode": "e2c8"
+  },
+  {
+    "name": "folder_shared",
+    "unicode": "e2c9"
+  },
+  {
+    "name": "folder_special",
+    "unicode": "e617"
+  },
+  {
+    "name": "font_download",
+    "unicode": "e167"
+  },
+  {
+    "name": "format_align_center",
+    "unicode": "e234"
+  },
+  {
+    "name": "format_align_justify",
+    "unicode": "e235"
+  },
+  {
+    "name": "format_align_left",
+    "unicode": "e236"
+  },
+  {
+    "name": "format_align_right",
+    "unicode": "e237"
+  },
+  {
+    "name": "format_bold",
+    "unicode": "e238"
+  },
+  {
+    "name": "format_clear",
+    "unicode": "e239"
+  },
+  {
+    "name": "format_color_fill",
+    "unicode": "e23a"
+  },
+  {
+    "name": "format_color_reset",
+    "unicode": "e23b"
+  },
+  {
+    "name": "format_color_text",
+    "unicode": "e23c"
+  },
+  {
+    "name": "format_indent_decrease",
+    "unicode": "e23d"
+  },
+  {
+    "name": "format_indent_increase",
+    "unicode": "e23e"
+  },
+  {
+    "name": "format_italic",
+    "unicode": "e23f"
+  },
+  {
+    "name": "format_line_spacing",
+    "unicode": "e240"
+  },
+  {
+    "name": "format_list_bulleted",
+    "unicode": "e241"
+  },
+  {
+    "name": "format_list_numbered",
+    "unicode": "e242"
+  },
+  {
+    "name": "format_paint",
+    "unicode": "e243"
+  },
+  {
+    "name": "format_quote",
+    "unicode": "e244"
+  },
+  {
+    "name": "format_shapes",
+    "unicode": "e25e"
+  },
+  {
+    "name": "format_size",
+    "unicode": "e245"
+  },
+  {
+    "name": "format_strikethrough",
+    "unicode": "e246"
+  },
+  {
+    "name": "format_textdirection_l_to_r",
+    "unicode": "e247"
+  },
+  {
+    "name": "format_textdirection_r_to_l",
+    "unicode": "e248"
+  },
+  {
+    "name": "format_underlined",
+    "unicode": "e249"
+  },
+  {
+    "name": "forum",
+    "unicode": "e0bf"
+  },
+  {
+    "name": "forward",
+    "unicode": "e154"
+  },
+  {
+    "name": "forward_10",
+    "unicode": "e056"
+  },
+  {
+    "name": "forward_30",
+    "unicode": "e057"
+  },
+  {
+    "name": "forward_5",
+    "unicode": "e058"
+  },
+  {
+    "name": "free_breakfast",
+    "unicode": "eb44"
+  },
+  {
+    "name": "fullscreen",
+    "unicode": "e5d0"
+  },
+  {
+    "name": "fullscreen_exit",
+    "unicode": "e5d1"
+  },
+  {
+    "name": "functions",
+    "unicode": "e24a"
+  },
+  {
+    "name": "g_translate",
+    "unicode": "e927"
+  },
+  {
+    "name": "gamepad",
+    "unicode": "e30f"
+  },
+  {
+    "name": "games",
+    "unicode": "e021"
+  },
+  {
+    "name": "gavel",
+    "unicode": "e90e"
+  },
+  {
+    "name": "gesture",
+    "unicode": "e155"
+  },
+  {
+    "name": "get_app",
+    "unicode": "e884"
+  },
+  {
+    "name": "gif",
+    "unicode": "e908"
+  },
+  {
+    "name": "golf_course",
+    "unicode": "eb45"
+  },
+  {
+    "name": "gps_fixed",
+    "unicode": "e1b3"
+  },
+  {
+    "name": "gps_not_fixed",
+    "unicode": "e1b4"
+  },
+  {
+    "name": "gps_off",
+    "unicode": "e1b5"
+  },
+  {
+    "name": "grade",
+    "unicode": "e885"
+  },
+  {
+    "name": "gradient",
+    "unicode": "e3e9"
+  },
+  {
+    "name": "grain",
+    "unicode": "e3ea"
+  },
+  {
+    "name": "graphic_eq",
+    "unicode": "e1b8"
+  },
+  {
+    "name": "grid_off",
+    "unicode": "e3eb"
+  },
+  {
+    "name": "grid_on",
+    "unicode": "e3ec"
+  },
+  {
+    "name": "group",
+    "unicode": "e7ef"
+  },
+  {
+    "name": "group_add",
+    "unicode": "e7f0"
+  },
+  {
+    "name": "group_work",
+    "unicode": "e886"
+  },
+  {
+    "name": "hd",
+    "unicode": "e052"
+  },
+  {
+    "name": "hdr_off",
+    "unicode": "e3ed"
+  },
+  {
+    "name": "hdr_on",
+    "unicode": "e3ee"
+  },
+  {
+    "name": "hdr_strong",
+    "unicode": "e3f1"
+  },
+  {
+    "name": "hdr_weak",
+    "unicode": "e3f2"
+  },
+  {
+    "name": "headset",
+    "unicode": "e310"
+  },
+  {
+    "name": "headset_mic",
+    "unicode": "e311"
+  },
+  {
+    "name": "healing",
+    "unicode": "e3f3"
+  },
+  {
+    "name": "hearing",
+    "unicode": "e023"
+  },
+  {
+    "name": "help",
+    "unicode": "e887"
+  },
+  {
+    "name": "help_outline",
+    "unicode": "e8fd"
+  },
+  {
+    "name": "high_quality",
+    "unicode": "e024"
+  },
+  {
+    "name": "highlight",
+    "unicode": "e25f"
+  },
+  {
+    "name": "highlight_off",
+    "unicode": "e888"
+  },
+  {
+    "name": "history",
+    "unicode": "e889"
+  },
+  {
+    "name": "home",
+    "unicode": "e88a"
+  },
+  {
+    "name": "hot_tub",
+    "unicode": "eb46"
+  },
+  {
+    "name": "hotel",
+    "unicode": "e53a"
+  },
+  {
+    "name": "hourglass_empty",
+    "unicode": "e88b"
+  },
+  {
+    "name": "hourglass_full",
+    "unicode": "e88c"
+  },
+  {
+    "name": "http",
+    "unicode": "e902"
+  },
+  {
+    "name": "https",
+    "unicode": "e88d"
+  },
+  {
+    "name": "image",
+    "unicode": "e3f4"
+  },
+  {
+    "name": "image_aspect_ratio",
+    "unicode": "e3f5"
+  },
+  {
+    "name": "import_contacts",
+    "unicode": "e0e0"
+  },
+  {
+    "name": "import_export",
+    "unicode": "e0c3"
+  },
+  {
+    "name": "important_devices",
+    "unicode": "e912"
+  },
+  {
+    "name": "inbox",
+    "unicode": "e156"
+  },
+  {
+    "name": "indeterminate_check_box",
+    "unicode": "e909"
+  },
+  {
+    "name": "info",
+    "unicode": "e88e"
+  },
+  {
+    "name": "info_outline",
+    "unicode": "e88f"
+  },
+  {
+    "name": "input",
+    "unicode": "e890"
+  },
+  {
+    "name": "insert_chart",
+    "unicode": "e24b"
+  },
+  {
+    "name": "insert_comment",
+    "unicode": "e24c"
+  },
+  {
+    "name": "insert_drive_file",
+    "unicode": "e24d"
+  },
+  {
+    "name": "insert_emoticon",
+    "unicode": "e24e"
+  },
+  {
+    "name": "insert_invitation",
+    "unicode": "e24f"
+  },
+  {
+    "name": "insert_link",
+    "unicode": "e250"
+  },
+  {
+    "name": "insert_photo",
+    "unicode": "e251"
+  },
+  {
+    "name": "invert_colors",
+    "unicode": "e891"
+  },
+  {
+    "name": "invert_colors_off",
+    "unicode": "e0c4"
+  },
+  {
+    "name": "iso",
+    "unicode": "e3f6"
+  },
+  {
+    "name": "keyboard",
+    "unicode": "e312"
+  },
+  {
+    "name": "keyboard_arrow_down",
+    "unicode": "e313"
+  },
+  {
+    "name": "keyboard_arrow_left",
+    "unicode": "e314"
+  },
+  {
+    "name": "keyboard_arrow_right",
+    "unicode": "e315"
+  },
+  {
+    "name": "keyboard_arrow_up",
+    "unicode": "e316"
+  },
+  {
+    "name": "keyboard_backspace",
+    "unicode": "e317"
+  },
+  {
+    "name": "keyboard_capslock",
+    "unicode": "e318"
+  },
+  {
+    "name": "keyboard_hide",
+    "unicode": "e31a"
+  },
+  {
+    "name": "keyboard_return",
+    "unicode": "e31b"
+  },
+  {
+    "name": "keyboard_tab",
+    "unicode": "e31c"
+  },
+  {
+    "name": "keyboard_voice",
+    "unicode": "e31d"
+  },
+  {
+    "name": "kitchen",
+    "unicode": "eb47"
+  },
+  {
+    "name": "label",
+    "unicode": "e892"
+  },
+  {
+    "name": "label_outline",
+    "unicode": "e893"
+  },
+  {
+    "name": "landscape",
+    "unicode": "e3f7"
+  },
+  {
+    "name": "language",
+    "unicode": "e894"
+  },
+  {
+    "name": "laptop",
+    "unicode": "e31e"
+  },
+  {
+    "name": "laptop_chromebook",
+    "unicode": "e31f"
+  },
+  {
+    "name": "laptop_mac",
+    "unicode": "e320"
+  },
+  {
+    "name": "laptop_windows",
+    "unicode": "e321"
+  },
+  {
+    "name": "last_page",
+    "unicode": "e5dd"
+  },
+  {
+    "name": "launch",
+    "unicode": "e895"
+  },
+  {
+    "name": "layers",
+    "unicode": "e53b"
+  },
+  {
+    "name": "layers_clear",
+    "unicode": "e53c"
+  },
+  {
+    "name": "leak_add",
+    "unicode": "e3f8"
+  },
+  {
+    "name": "leak_remove",
+    "unicode": "e3f9"
+  },
+  {
+    "name": "lens",
+    "unicode": "e3fa"
+  },
+  {
+    "name": "library_add",
+    "unicode": "e02e"
+  },
+  {
+    "name": "library_books",
+    "unicode": "e02f"
+  },
+  {
+    "name": "library_music",
+    "unicode": "e030"
+  },
+  {
+    "name": "lightbulb_outline",
+    "unicode": "e90f"
+  },
+  {
+    "name": "line_style",
+    "unicode": "e919"
+  },
+  {
+    "name": "line_weight",
+    "unicode": "e91a"
+  },
+  {
+    "name": "linear_scale",
+    "unicode": "e260"
+  },
+  {
+    "name": "link",
+    "unicode": "e157"
+  },
+  {
+    "name": "linked_camera",
+    "unicode": "e438"
+  },
+  {
+    "name": "list",
+    "unicode": "e896"
+  },
+  {
+    "name": "live_help",
+    "unicode": "e0c6"
+  },
+  {
+    "name": "live_tv",
+    "unicode": "e639"
+  },
+  {
+    "name": "local_activity",
+    "unicode": "e53f"
+  },
+  {
+    "name": "local_airport",
+    "unicode": "e53d"
+  },
+  {
+    "name": "local_atm",
+    "unicode": "e53e"
+  },
+  {
+    "name": "local_bar",
+    "unicode": "e540"
+  },
+  {
+    "name": "local_cafe",
+    "unicode": "e541"
+  },
+  {
+    "name": "local_car_wash",
+    "unicode": "e542"
+  },
+  {
+    "name": "local_convenience_store",
+    "unicode": "e543"
+  },
+  {
+    "name": "local_dining",
+    "unicode": "e556"
+  },
+  {
+    "name": "local_drink",
+    "unicode": "e544"
+  },
+  {
+    "name": "local_florist",
+    "unicode": "e545"
+  },
+  {
+    "name": "local_gas_station",
+    "unicode": "e546"
+  },
+  {
+    "name": "local_grocery_store",
+    "unicode": "e547"
+  },
+  {
+    "name": "local_hospital",
+    "unicode": "e548"
+  },
+  {
+    "name": "local_hotel",
+    "unicode": "e549"
+  },
+  {
+    "name": "local_laundry_service",
+    "unicode": "e54a"
+  },
+  {
+    "name": "local_library",
+    "unicode": "e54b"
+  },
+  {
+    "name": "local_mall",
+    "unicode": "e54c"
+  },
+  {
+    "name": "local_movies",
+    "unicode": "e54d"
+  },
+  {
+    "name": "local_offer",
+    "unicode": "e54e"
+  },
+  {
+    "name": "local_parking",
+    "unicode": "e54f"
+  },
+  {
+    "name": "local_pharmacy",
+    "unicode": "e550"
+  },
+  {
+    "name": "local_phone",
+    "unicode": "e551"
+  },
+  {
+    "name": "local_pizza",
+    "unicode": "e552"
+  },
+  {
+    "name": "local_play",
+    "unicode": "e553"
+  },
+  {
+    "name": "local_post_office",
+    "unicode": "e554"
+  },
+  {
+    "name": "local_printshop",
+    "unicode": "e555"
+  },
+  {
+    "name": "local_see",
+    "unicode": "e557"
+  },
+  {
+    "name": "local_shipping",
+    "unicode": "e558"
+  },
+  {
+    "name": "local_taxi",
+    "unicode": "e559"
+  },
+  {
+    "name": "location_city",
+    "unicode": "e7f1"
+  },
+  {
+    "name": "location_disabled",
+    "unicode": "e1b6"
+  },
+  {
+    "name": "location_off",
+    "unicode": "e0c7"
+  },
+  {
+    "name": "location_on",
+    "unicode": "e0c8"
+  },
+  {
+    "name": "location_searching",
+    "unicode": "e1b7"
+  },
+  {
+    "name": "lock",
+    "unicode": "e897"
+  },
+  {
+    "name": "lock_open",
+    "unicode": "e898"
+  },
+  {
+    "name": "lock_outline",
+    "unicode": "e899"
+  },
+  {
+    "name": "looks",
+    "unicode": "e3fc"
+  },
+  {
+    "name": "looks_3",
+    "unicode": "e3fb"
+  },
+  {
+    "name": "looks_4",
+    "unicode": "e3fd"
+  },
+  {
+    "name": "looks_5",
+    "unicode": "e3fe"
+  },
+  {
+    "name": "looks_6",
+    "unicode": "e3ff"
+  },
+  {
+    "name": "looks_one",
+    "unicode": "e400"
+  },
+  {
+    "name": "looks_two",
+    "unicode": "e401"
+  },
+  {
+    "name": "loop",
+    "unicode": "e028"
+  },
+  {
+    "name": "loupe",
+    "unicode": "e402"
+  },
+  {
+    "name": "low_priority",
+    "unicode": "e16d"
+  },
+  {
+    "name": "loyalty",
+    "unicode": "e89a"
+  },
+  {
+    "name": "mail",
+    "unicode": "e158"
+  },
+  {
+    "name": "mail_outline",
+    "unicode": "e0e1"
+  },
+  {
+    "name": "map",
+    "unicode": "e55b"
+  },
+  {
+    "name": "markunread",
+    "unicode": "e159"
+  },
+  {
+    "name": "markunread_mailbox",
+    "unicode": "e89b"
+  },
+  {
+    "name": "memory",
+    "unicode": "e322"
+  },
+  {
+    "name": "menu",
+    "unicode": "e5d2"
+  },
+  {
+    "name": "merge_type",
+    "unicode": "e252"
+  },
+  {
+    "name": "message",
+    "unicode": "e0c9"
+  },
+  {
+    "name": "mic",
+    "unicode": "e029"
+  },
+  {
+    "name": "mic_none",
+    "unicode": "e02a"
+  },
+  {
+    "name": "mic_off",
+    "unicode": "e02b"
+  },
+  {
+    "name": "mms",
+    "unicode": "e618"
+  },
+  {
+    "name": "mode_comment",
+    "unicode": "e253"
+  },
+  {
+    "name": "mode_edit",
+    "unicode": "e254"
+  },
+  {
+    "name": "monetization_on",
+    "unicode": "e263"
+  },
+  {
+    "name": "money_off",
+    "unicode": "e25c"
+  },
+  {
+    "name": "monochrome_photos",
+    "unicode": "e403"
+  },
+  {
+    "name": "mood",
+    "unicode": "e7f2"
+  },
+  {
+    "name": "mood_bad",
+    "unicode": "e7f3"
+  },
+  {
+    "name": "more",
+    "unicode": "e619"
+  },
+  {
+    "name": "more_horiz",
+    "unicode": "e5d3"
+  },
+  {
+    "name": "more_vert",
+    "unicode": "e5d4"
+  },
+  {
+    "name": "motorcycle",
+    "unicode": "e91b"
+  },
+  {
+    "name": "mouse",
+    "unicode": "e323"
+  },
+  {
+    "name": "move_to_inbox",
+    "unicode": "e168"
+  },
+  {
+    "name": "movie",
+    "unicode": "e02c"
+  },
+  {
+    "name": "movie_creation",
+    "unicode": "e404"
+  },
+  {
+    "name": "movie_filter",
+    "unicode": "e43a"
+  },
+  {
+    "name": "multiline_chart",
+    "unicode": "e6df"
+  },
+  {
+    "name": "music_note",
+    "unicode": "e405"
+  },
+  {
+    "name": "music_video",
+    "unicode": "e063"
+  },
+  {
+    "name": "my_location",
+    "unicode": "e55c"
+  },
+  {
+    "name": "nature",
+    "unicode": "e406"
+  },
+  {
+    "name": "nature_people",
+    "unicode": "e407"
+  },
+  {
+    "name": "navigate_before",
+    "unicode": "e408"
+  },
+  {
+    "name": "navigate_next",
+    "unicode": "e409"
+  },
+  {
+    "name": "navigation",
+    "unicode": "e55d"
+  },
+  {
+    "name": "near_me",
+    "unicode": "e569"
+  },
+  {
+    "name": "network_cell",
+    "unicode": "e1b9"
+  },
+  {
+    "name": "network_check",
+    "unicode": "e640"
+  },
+  {
+    "name": "network_locked",
+    "unicode": "e61a"
+  },
+  {
+    "name": "network_wifi",
+    "unicode": "e1ba"
+  },
+  {
+    "name": "new_releases",
+    "unicode": "e031"
+  },
+  {
+    "name": "next_week",
+    "unicode": "e16a"
+  },
+  {
+    "name": "nfc",
+    "unicode": "e1bb"
+  },
+  {
+    "name": "no_encryption",
+    "unicode": "e641"
+  },
+  {
+    "name": "no_sim",
+    "unicode": "e0cc"
+  },
+  {
+    "name": "not_interested",
+    "unicode": "e033"
+  },
+  {
+    "name": "note",
+    "unicode": "e06f"
+  },
+  {
+    "name": "note_add",
+    "unicode": "e89c"
+  },
+  {
+    "name": "notifications",
+    "unicode": "e7f4"
+  },
+  {
+    "name": "notifications_active",
+    "unicode": "e7f7"
+  },
+  {
+    "name": "notifications_none",
+    "unicode": "e7f5"
+  },
+  {
+    "name": "notifications_off",
+    "unicode": "e7f6"
+  },
+  {
+    "name": "notifications_paused",
+    "unicode": "e7f8"
+  },
+  {
+    "name": "offline_pin",
+    "unicode": "e90a"
+  },
+  {
+    "name": "ondemand_video",
+    "unicode": "e63a"
+  },
+  {
+    "name": "opacity",
+    "unicode": "e91c"
+  },
+  {
+    "name": "open_in_browser",
+    "unicode": "e89d"
+  },
+  {
+    "name": "open_in_new",
+    "unicode": "e89e"
+  },
+  {
+    "name": "open_with",
+    "unicode": "e89f"
+  },
+  {
+    "name": "pages",
+    "unicode": "e7f9"
+  },
+  {
+    "name": "pageview",
+    "unicode": "e8a0"
+  },
+  {
+    "name": "palette",
+    "unicode": "e40a"
+  },
+  {
+    "name": "pan_tool",
+    "unicode": "e925"
+  },
+  {
+    "name": "panorama",
+    "unicode": "e40b"
+  },
+  {
+    "name": "panorama_fish_eye",
+    "unicode": "e40c"
+  },
+  {
+    "name": "panorama_horizontal",
+    "unicode": "e40d"
+  },
+  {
+    "name": "panorama_vertical",
+    "unicode": "e40e"
+  },
+  {
+    "name": "panorama_wide_angle",
+    "unicode": "e40f"
+  },
+  {
+    "name": "party_mode",
+    "unicode": "e7fa"
+  },
+  {
+    "name": "pause",
+    "unicode": "e034"
+  },
+  {
+    "name": "pause_circle_filled",
+    "unicode": "e035"
+  },
+  {
+    "name": "pause_circle_outline",
+    "unicode": "e036"
+  },
+  {
+    "name": "payment",
+    "unicode": "e8a1"
+  },
+  {
+    "name": "people",
+    "unicode": "e7fb"
+  },
+  {
+    "name": "people_outline",
+    "unicode": "e7fc"
+  },
+  {
+    "name": "perm_camera_mic",
+    "unicode": "e8a2"
+  },
+  {
+    "name": "perm_contact_calendar",
+    "unicode": "e8a3"
+  },
+  {
+    "name": "perm_data_setting",
+    "unicode": "e8a4"
+  },
+  {
+    "name": "perm_device_information",
+    "unicode": "e8a5"
+  },
+  {
+    "name": "perm_identity",
+    "unicode": "e8a6"
+  },
+  {
+    "name": "perm_media",
+    "unicode": "e8a7"
+  },
+  {
+    "name": "perm_phone_msg",
+    "unicode": "e8a8"
+  },
+  {
+    "name": "perm_scan_wifi",
+    "unicode": "e8a9"
+  },
+  {
+    "name": "person",
+    "unicode": "e7fd"
+  },
+  {
+    "name": "person_add",
+    "unicode": "e7fe"
+  },
+  {
+    "name": "person_outline",
+    "unicode": "e7ff"
+  },
+  {
+    "name": "person_pin",
+    "unicode": "e55a"
+  },
+  {
+    "name": "person_pin_circle",
+    "unicode": "e56a"
+  },
+  {
+    "name": "personal_video",
+    "unicode": "e63b"
+  },
+  {
+    "name": "pets",
+    "unicode": "e91d"
+  },
+  {
+    "name": "phone",
+    "unicode": "e0cd"
+  },
+  {
+    "name": "phone_android",
+    "unicode": "e324"
+  },
+  {
+    "name": "phone_bluetooth_speaker",
+    "unicode": "e61b"
+  },
+  {
+    "name": "phone_forwarded",
+    "unicode": "e61c"
+  },
+  {
+    "name": "phone_in_talk",
+    "unicode": "e61d"
+  },
+  {
+    "name": "phone_iphone",
+    "unicode": "e325"
+  },
+  {
+    "name": "phone_locked",
+    "unicode": "e61e"
+  },
+  {
+    "name": "phone_missed",
+    "unicode": "e61f"
+  },
+  {
+    "name": "phone_paused",
+    "unicode": "e620"
+  },
+  {
+    "name": "phonelink",
+    "unicode": "e326"
+  },
+  {
+    "name": "phonelink_erase",
+    "unicode": "e0db"
+  },
+  {
+    "name": "phonelink_lock",
+    "unicode": "e0dc"
+  },
+  {
+    "name": "phonelink_off",
+    "unicode": "e327"
+  },
+  {
+    "name": "phonelink_ring",
+    "unicode": "e0dd"
+  },
+  {
+    "name": "phonelink_setup",
+    "unicode": "e0de"
+  },
+  {
+    "name": "photo",
+    "unicode": "e410"
+  },
+  {
+    "name": "photo_album",
+    "unicode": "e411"
+  },
+  {
+    "name": "photo_camera",
+    "unicode": "e412"
+  },
+  {
+    "name": "photo_filter",
+    "unicode": "e43b"
+  },
+  {
+    "name": "photo_library",
+    "unicode": "e413"
+  },
+  {
+    "name": "photo_size_select_actual",
+    "unicode": "e432"
+  },
+  {
+    "name": "photo_size_select_large",
+    "unicode": "e433"
+  },
+  {
+    "name": "photo_size_select_small",
+    "unicode": "e434"
+  },
+  {
+    "name": "picture_as_pdf",
+    "unicode": "e415"
+  },
+  {
+    "name": "picture_in_picture",
+    "unicode": "e8aa"
+  },
+  {
+    "name": "picture_in_picture_alt",
+    "unicode": "e911"
+  },
+  {
+    "name": "pie_chart",
+    "unicode": "e6c4"
+  },
+  {
+    "name": "pie_chart_outlined",
+    "unicode": "e6c5"
+  },
+  {
+    "name": "pin_drop",
+    "unicode": "e55e"
+  },
+  {
+    "name": "place",
+    "unicode": "e55f"
+  },
+  {
+    "name": "play_arrow",
+    "unicode": "e037"
+  },
+  {
+    "name": "play_circle_filled",
+    "unicode": "e038"
+  },
+  {
+    "name": "play_circle_outline",
+    "unicode": "e039"
+  },
+  {
+    "name": "play_for_work",
+    "unicode": "e906"
+  },
+  {
+    "name": "playlist_add",
+    "unicode": "e03b"
+  },
+  {
+    "name": "playlist_add_check",
+    "unicode": "e065"
+  },
+  {
+    "name": "playlist_play",
+    "unicode": "e05f"
+  },
+  {
+    "name": "plus_one",
+    "unicode": "e800"
+  },
+  {
+    "name": "poll",
+    "unicode": "e801"
+  },
+  {
+    "name": "polymer",
+    "unicode": "e8ab"
+  },
+  {
+    "name": "pool",
+    "unicode": "eb48"
+  },
+  {
+    "name": "portable_wifi_off",
+    "unicode": "e0ce"
+  },
+  {
+    "name": "portrait",
+    "unicode": "e416"
+  },
+  {
+    "name": "power",
+    "unicode": "e63c"
+  },
+  {
+    "name": "power_input",
+    "unicode": "e336"
+  },
+  {
+    "name": "power_settings_new",
+    "unicode": "e8ac"
+  },
+  {
+    "name": "pregnant_woman",
+    "unicode": "e91e"
+  },
+  {
+    "name": "present_to_all",
+    "unicode": "e0df"
+  },
+  {
+    "name": "print",
+    "unicode": "e8ad"
+  },
+  {
+    "name": "priority_high",
+    "unicode": "e645"
+  },
+  {
+    "name": "public",
+    "unicode": "e80b"
+  },
+  {
+    "name": "publish",
+    "unicode": "e255"
+  },
+  {
+    "name": "query_builder",
+    "unicode": "e8ae"
+  },
+  {
+    "name": "question_answer",
+    "unicode": "e8af"
+  },
+  {
+    "name": "queue",
+    "unicode": "e03c"
+  },
+  {
+    "name": "queue_music",
+    "unicode": "e03d"
+  },
+  {
+    "name": "queue_play_next",
+    "unicode": "e066"
+  },
+  {
+    "name": "radio",
+    "unicode": "e03e"
+  },
+  {
+    "name": "radio_button_checked",
+    "unicode": "e837"
+  },
+  {
+    "name": "radio_button_unchecked",
+    "unicode": "e836"
+  },
+  {
+    "name": "rate_review",
+    "unicode": "e560"
+  },
+  {
+    "name": "receipt",
+    "unicode": "e8b0"
+  },
+  {
+    "name": "recent_actors",
+    "unicode": "e03f"
+  },
+  {
+    "name": "record_voice_over",
+    "unicode": "e91f"
+  },
+  {
+    "name": "redeem",
+    "unicode": "e8b1"
+  },
+  {
+    "name": "redo",
+    "unicode": "e15a"
+  },
+  {
+    "name": "refresh",
+    "unicode": "e5d5"
+  },
+  {
+    "name": "remove",
+    "unicode": "e15b"
+  },
+  {
+    "name": "remove_circle",
+    "unicode": "e15c"
+  },
+  {
+    "name": "remove_circle_outline",
+    "unicode": "e15d"
+  },
+  {
+    "name": "remove_from_queue",
+    "unicode": "e067"
+  },
+  {
+    "name": "remove_red_eye",
+    "unicode": "e417"
+  },
+  {
+    "name": "remove_shopping_cart",
+    "unicode": "e928"
+  },
+  {
+    "name": "reorder",
+    "unicode": "e8fe"
+  },
+  {
+    "name": "repeat",
+    "unicode": "e040"
+  },
+  {
+    "name": "repeat_one",
+    "unicode": "e041"
+  },
+  {
+    "name": "replay",
+    "unicode": "e042"
+  },
+  {
+    "name": "replay_10",
+    "unicode": "e059"
+  },
+  {
+    "name": "replay_30",
+    "unicode": "e05a"
+  },
+  {
+    "name": "replay_5",
+    "unicode": "e05b"
+  },
+  {
+    "name": "reply",
+    "unicode": "e15e"
+  },
+  {
+    "name": "reply_all",
+    "unicode": "e15f"
+  },
+  {
+    "name": "report",
+    "unicode": "e160"
+  },
+  {
+    "name": "report_problem",
+    "unicode": "e8b2"
+  },
+  {
+    "name": "restaurant",
+    "unicode": "e56c"
+  },
+  {
+    "name": "restaurant_menu",
+    "unicode": "e561"
+  },
+  {
+    "name": "restore",
+    "unicode": "e8b3"
+  },
+  {
+    "name": "restore_page",
+    "unicode": "e929"
+  },
+  {
+    "name": "ring_volume",
+    "unicode": "e0d1"
+  },
+  {
+    "name": "room",
+    "unicode": "e8b4"
+  },
+  {
+    "name": "room_service",
+    "unicode": "eb49"
+  },
+  {
+    "name": "rotate_90_degrees_ccw",
+    "unicode": "e418"
+  },
+  {
+    "name": "rotate_left",
+    "unicode": "e419"
+  },
+  {
+    "name": "rotate_right",
+    "unicode": "e41a"
+  },
+  {
+    "name": "rounded_corner",
+    "unicode": "e920"
+  },
+  {
+    "name": "router",
+    "unicode": "e328"
+  },
+  {
+    "name": "rowing",
+    "unicode": "e921"
+  },
+  {
+    "name": "rss_feed",
+    "unicode": "e0e5"
+  },
+  {
+    "name": "rv_hookup",
+    "unicode": "e642"
+  },
+  {
+    "name": "satellite",
+    "unicode": "e562"
+  },
+  {
+    "name": "save",
+    "unicode": "e161"
+  },
+  {
+    "name": "scanner",
+    "unicode": "e329"
+  },
+  {
+    "name": "schedule",
+    "unicode": "e8b5"
+  },
+  {
+    "name": "school",
+    "unicode": "e80c"
+  },
+  {
+    "name": "screen_lock_landscape",
+    "unicode": "e1be"
+  },
+  {
+    "name": "screen_lock_portrait",
+    "unicode": "e1bf"
+  },
+  {
+    "name": "screen_lock_rotation",
+    "unicode": "e1c0"
+  },
+  {
+    "name": "screen_rotation",
+    "unicode": "e1c1"
+  },
+  {
+    "name": "screen_share",
+    "unicode": "e0e2"
+  },
+  {
+    "name": "sd_card",
+    "unicode": "e623"
+  },
+  {
+    "name": "sd_storage",
+    "unicode": "e1c2"
+  },
+  {
+    "name": "search",
+    "unicode": "e8b6"
+  },
+  {
+    "name": "security",
+    "unicode": "e32a"
+  },
+  {
+    "name": "select_all",
+    "unicode": "e162"
+  },
+  {
+    "name": "send",
+    "unicode": "e163"
+  },
+  {
+    "name": "sentiment_dissatisfied",
+    "unicode": "e811"
+  },
+  {
+    "name": "sentiment_neutral",
+    "unicode": "e812"
+  },
+  {
+    "name": "sentiment_satisfied",
+    "unicode": "e813"
+  },
+  {
+    "name": "sentiment_very_dissatisfied",
+    "unicode": "e814"
+  },
+  {
+    "name": "sentiment_very_satisfied",
+    "unicode": "e815"
+  },
+  {
+    "name": "settings",
+    "unicode": "e8b8"
+  },
+  {
+    "name": "settings_applications",
+    "unicode": "e8b9"
+  },
+  {
+    "name": "settings_backup_restore",
+    "unicode": "e8ba"
+  },
+  {
+    "name": "settings_bluetooth",
+    "unicode": "e8bb"
+  },
+  {
+    "name": "settings_brightness",
+    "unicode": "e8bd"
+  },
+  {
+    "name": "settings_cell",
+    "unicode": "e8bc"
+  },
+  {
+    "name": "settings_ethernet",
+    "unicode": "e8be"
+  },
+  {
+    "name": "settings_input_antenna",
+    "unicode": "e8bf"
+  },
+  {
+    "name": "settings_input_component",
+    "unicode": "e8c0"
+  },
+  {
+    "name": "settings_input_composite",
+    "unicode": "e8c1"
+  },
+  {
+    "name": "settings_input_hdmi",
+    "unicode": "e8c2"
+  },
+  {
+    "name": "settings_input_svideo",
+    "unicode": "e8c3"
+  },
+  {
+    "name": "settings_overscan",
+    "unicode": "e8c4"
+  },
+  {
+    "name": "settings_phone",
+    "unicode": "e8c5"
+  },
+  {
+    "name": "settings_power",
+    "unicode": "e8c6"
+  },
+  {
+    "name": "settings_remote",
+    "unicode": "e8c7"
+  },
+  {
+    "name": "settings_system_daydream",
+    "unicode": "e1c3"
+  },
+  {
+    "name": "settings_voice",
+    "unicode": "e8c8"
+  },
+  {
+    "name": "share",
+    "unicode": "e80d"
+  },
+  {
+    "name": "shop",
+    "unicode": "e8c9"
+  },
+  {
+    "name": "shop_two",
+    "unicode": "e8ca"
+  },
+  {
+    "name": "shopping_basket",
+    "unicode": "e8cb"
+  },
+  {
+    "name": "shopping_cart",
+    "unicode": "e8cc"
+  },
+  {
+    "name": "short_text",
+    "unicode": "e261"
+  },
+  {
+    "name": "show_chart",
+    "unicode": "e6e1"
+  },
+  {
+    "name": "shuffle",
+    "unicode": "e043"
+  },
+  {
+    "name": "signal_cellular_4_bar",
+    "unicode": "e1c8"
+  },
+  {
+    "name": "signal_cellular_connected_no_internet_4_bar",
+    "unicode": "e1cd"
+  },
+  {
+    "name": "signal_cellular_no_sim",
+    "unicode": "e1ce"
+  },
+  {
+    "name": "signal_cellular_null",
+    "unicode": "e1cf"
+  },
+  {
+    "name": "signal_cellular_off",
+    "unicode": "e1d0"
+  },
+  {
+    "name": "signal_wifi_4_bar",
+    "unicode": "e1d8"
+  },
+  {
+    "name": "signal_wifi_4_bar_lock",
+    "unicode": "e1d9"
+  },
+  {
+    "name": "signal_wifi_off",
+    "unicode": "e1da"
+  },
+  {
+    "name": "sim_card",
+    "unicode": "e32b"
+  },
+  {
+    "name": "sim_card_alert",
+    "unicode": "e624"
+  },
+  {
+    "name": "skip_next",
+    "unicode": "e044"
+  },
+  {
+    "name": "skip_previous",
+    "unicode": "e045"
+  },
+  {
+    "name": "slideshow",
+    "unicode": "e41b"
+  },
+  {
+    "name": "slow_motion_video",
+    "unicode": "e068"
+  },
+  {
+    "name": "smartphone",
+    "unicode": "e32c"
+  },
+  {
+    "name": "smoke_free",
+    "unicode": "eb4a"
+  },
+  {
+    "name": "smoking_rooms",
+    "unicode": "eb4b"
+  },
+  {
+    "name": "sms",
+    "unicode": "e625"
+  },
+  {
+    "name": "sms_failed",
+    "unicode": "e626"
+  },
+  {
+    "name": "snooze",
+    "unicode": "e046"
+  },
+  {
+    "name": "sort",
+    "unicode": "e164"
+  },
+  {
+    "name": "sort_by_alpha",
+    "unicode": "e053"
+  },
+  {
+    "name": "spa",
+    "unicode": "eb4c"
+  },
+  {
+    "name": "space_bar",
+    "unicode": "e256"
+  },
+  {
+    "name": "speaker",
+    "unicode": "e32d"
+  },
+  {
+    "name": "speaker_group",
+    "unicode": "e32e"
+  },
+  {
+    "name": "speaker_notes",
+    "unicode": "e8cd"
+  },
+  {
+    "name": "speaker_notes_off",
+    "unicode": "e92a"
+  },
+  {
+    "name": "speaker_phone",
+    "unicode": "e0d2"
+  },
+  {
+    "name": "spellcheck",
+    "unicode": "e8ce"
+  },
+  {
+    "name": "star",
+    "unicode": "e838"
+  },
+  {
+    "name": "star_border",
+    "unicode": "e83a"
+  },
+  {
+    "name": "star_half",
+    "unicode": "e839"
+  },
+  {
+    "name": "stars",
+    "unicode": "e8d0"
+  },
+  {
+    "name": "stay_current_landscape",
+    "unicode": "e0d3"
+  },
+  {
+    "name": "stay_current_portrait",
+    "unicode": "e0d4"
+  },
+  {
+    "name": "stay_primary_landscape",
+    "unicode": "e0d5"
+  },
+  {
+    "name": "stay_primary_portrait",
+    "unicode": "e0d6"
+  },
+  {
+    "name": "stop",
+    "unicode": "e047"
+  },
+  {
+    "name": "stop_screen_share",
+    "unicode": "e0e3"
+  },
+  {
+    "name": "storage",
+    "unicode": "e1db"
+  },
+  {
+    "name": "store",
+    "unicode": "e8d1"
+  },
+  {
+    "name": "store_mall_directory",
+    "unicode": "e563"
+  },
+  {
+    "name": "straighten",
+    "unicode": "e41c"
+  },
+  {
+    "name": "streetview",
+    "unicode": "e56e"
+  },
+  {
+    "name": "strikethrough_s",
+    "unicode": "e257"
+  },
+  {
+    "name": "style",
+    "unicode": "e41d"
+  },
+  {
+    "name": "subdirectory_arrow_left",
+    "unicode": "e5d9"
+  },
+  {
+    "name": "subdirectory_arrow_right",
+    "unicode": "e5da"
+  },
+  {
+    "name": "subject",
+    "unicode": "e8d2"
+  },
+  {
+    "name": "subscriptions",
+    "unicode": "e064"
+  },
+  {
+    "name": "subtitles",
+    "unicode": "e048"
+  },
+  {
+    "name": "subway",
+    "unicode": "e56f"
+  },
+  {
+    "name": "supervisor_account",
+    "unicode": "e8d3"
+  },
+  {
+    "name": "surround_sound",
+    "unicode": "e049"
+  },
+  {
+    "name": "swap_calls",
+    "unicode": "e0d7"
+  },
+  {
+    "name": "swap_horiz",
+    "unicode": "e8d4"
+  },
+  {
+    "name": "swap_vert",
+    "unicode": "e8d5"
+  },
+  {
+    "name": "swap_vertical_circle",
+    "unicode": "e8d6"
+  },
+  {
+    "name": "switch_camera",
+    "unicode": "e41e"
+  },
+  {
+    "name": "switch_video",
+    "unicode": "e41f"
+  },
+  {
+    "name": "sync",
+    "unicode": "e627"
+  },
+  {
+    "name": "sync_disabled",
+    "unicode": "e628"
+  },
+  {
+    "name": "sync_problem",
+    "unicode": "e629"
+  },
+  {
+    "name": "system_update",
+    "unicode": "e62a"
+  },
+  {
+    "name": "system_update_alt",
+    "unicode": "e8d7"
+  },
+  {
+    "name": "tab",
+    "unicode": "e8d8"
+  },
+  {
+    "name": "tab_unselected",
+    "unicode": "e8d9"
+  },
+  {
+    "name": "tablet",
+    "unicode": "e32f"
+  },
+  {
+    "name": "tablet_android",
+    "unicode": "e330"
+  },
+  {
+    "name": "tablet_mac",
+    "unicode": "e331"
+  },
+  {
+    "name": "tag_faces",
+    "unicode": "e420"
+  },
+  {
+    "name": "tap_and_play",
+    "unicode": "e62b"
+  },
+  {
+    "name": "terrain",
+    "unicode": "e564"
+  },
+  {
+    "name": "text_fields",
+    "unicode": "e262"
+  },
+  {
+    "name": "text_format",
+    "unicode": "e165"
+  },
+  {
+    "name": "textsms",
+    "unicode": "e0d8"
+  },
+  {
+    "name": "texture",
+    "unicode": "e421"
+  },
+  {
+    "name": "theaters",
+    "unicode": "e8da"
+  },
+  {
+    "name": "thumb_down",
+    "unicode": "e8db"
+  },
+  {
+    "name": "thumb_up",
+    "unicode": "e8dc"
+  },
+  {
+    "name": "thumbs_up_down",
+    "unicode": "e8dd"
+  },
+  {
+    "name": "time_to_leave",
+    "unicode": "e62c"
+  },
+  {
+    "name": "timelapse",
+    "unicode": "e422"
+  },
+  {
+    "name": "timeline",
+    "unicode": "e922"
+  },
+  {
+    "name": "timer",
+    "unicode": "e425"
+  },
+  {
+    "name": "timer_10",
+    "unicode": "e423"
+  },
+  {
+    "name": "timer_3",
+    "unicode": "e424"
+  },
+  {
+    "name": "timer_off",
+    "unicode": "e426"
+  },
+  {
+    "name": "title",
+    "unicode": "e264"
+  },
+  {
+    "name": "toc",
+    "unicode": "e8de"
+  },
+  {
+    "name": "today",
+    "unicode": "e8df"
+  },
+  {
+    "name": "toll",
+    "unicode": "e8e0"
+  },
+  {
+    "name": "tonality",
+    "unicode": "e427"
+  },
+  {
+    "name": "touch_app",
+    "unicode": "e913"
+  },
+  {
+    "name": "toys",
+    "unicode": "e332"
+  },
+  {
+    "name": "track_changes",
+    "unicode": "e8e1"
+  },
+  {
+    "name": "traffic",
+    "unicode": "e565"
+  },
+  {
+    "name": "train",
+    "unicode": "e570"
+  },
+  {
+    "name": "tram",
+    "unicode": "e571"
+  },
+  {
+    "name": "transfer_within_a_station",
+    "unicode": "e572"
+  },
+  {
+    "name": "transform",
+    "unicode": "e428"
+  },
+  {
+    "name": "translate",
+    "unicode": "e8e2"
+  },
+  {
+    "name": "trending_down",
+    "unicode": "e8e3"
+  },
+  {
+    "name": "trending_flat",
+    "unicode": "e8e4"
+  },
+  {
+    "name": "trending_up",
+    "unicode": "e8e5"
+  },
+  {
+    "name": "tune",
+    "unicode": "e429"
+  },
+  {
+    "name": "turned_in",
+    "unicode": "e8e6"
+  },
+  {
+    "name": "turned_in_not",
+    "unicode": "e8e7"
+  },
+  {
+    "name": "tv",
+    "unicode": "e333"
+  },
+  {
+    "name": "unarchive",
+    "unicode": "e169"
+  },
+  {
+    "name": "undo",
+    "unicode": "e166"
+  },
+  {
+    "name": "unfold_less",
+    "unicode": "e5d6"
+  },
+  {
+    "name": "unfold_more",
+    "unicode": "e5d7"
+  },
+  {
+    "name": "update",
+    "unicode": "e923"
+  },
+  {
+    "name": "usb",
+    "unicode": "e1e0"
+  },
+  {
+    "name": "verified_user",
+    "unicode": "e8e8"
+  },
+  {
+    "name": "vertical_align_bottom",
+    "unicode": "e258"
+  },
+  {
+    "name": "vertical_align_center",
+    "unicode": "e259"
+  },
+  {
+    "name": "vertical_align_top",
+    "unicode": "e25a"
+  },
+  {
+    "name": "vibration",
+    "unicode": "e62d"
+  },
+  {
+    "name": "video_call",
+    "unicode": "e070"
+  },
+  {
+    "name": "video_label",
+    "unicode": "e071"
+  },
+  {
+    "name": "video_library",
+    "unicode": "e04a"
+  },
+  {
+    "name": "videocam",
+    "unicode": "e04b"
+  },
+  {
+    "name": "videocam_off",
+    "unicode": "e04c"
+  },
+  {
+    "name": "videogame_asset",
+    "unicode": "e338"
+  },
+  {
+    "name": "view_agenda",
+    "unicode": "e8e9"
+  },
+  {
+    "name": "view_array",
+    "unicode": "e8ea"
+  },
+  {
+    "name": "view_carousel",
+    "unicode": "e8eb"
+  },
+  {
+    "name": "view_column",
+    "unicode": "e8ec"
+  },
+  {
+    "name": "view_comfy",
+    "unicode": "e42a"
+  },
+  {
+    "name": "view_compact",
+    "unicode": "e42b"
+  },
+  {
+    "name": "view_day",
+    "unicode": "e8ed"
+  },
+  {
+    "name": "view_headline",
+    "unicode": "e8ee"
+  },
+  {
+    "name": "view_list",
+    "unicode": "e8ef"
+  },
+  {
+    "name": "view_module",
+    "unicode": "e8f0"
+  },
+  {
+    "name": "view_quilt",
+    "unicode": "e8f1"
+  },
+  {
+    "name": "view_stream",
+    "unicode": "e8f2"
+  },
+  {
+    "name": "view_week",
+    "unicode": "e8f3"
+  },
+  {
+    "name": "vignette",
+    "unicode": "e435"
+  },
+  {
+    "name": "visibility",
+    "unicode": "e8f4"
+  },
+  {
+    "name": "visibility_off",
+    "unicode": "e8f5"
+  },
+  {
+    "name": "voice_chat",
+    "unicode": "e62e"
+  },
+  {
+    "name": "voicemail",
+    "unicode": "e0d9"
+  },
+  {
+    "name": "volume_down",
+    "unicode": "e04d"
+  },
+  {
+    "name": "volume_mute",
+    "unicode": "e04e"
+  },
+  {
+    "name": "volume_off",
+    "unicode": "e04f"
+  },
+  {
+    "name": "volume_up",
+    "unicode": "e050"
+  },
+  {
+    "name": "vpn_key",
+    "unicode": "e0da"
+  },
+  {
+    "name": "vpn_lock",
+    "unicode": "e62f"
+  },
+  {
+    "name": "wallpaper",
+    "unicode": "e1bc"
+  },
+  {
+    "name": "warning",
+    "unicode": "e002"
+  },
+  {
+    "name": "watch",
+    "unicode": "e334"
+  },
+  {
+    "name": "watch_later",
+    "unicode": "e924"
+  },
+  {
+    "name": "wb_auto",
+    "unicode": "e42c"
+  },
+  {
+    "name": "wb_cloudy",
+    "unicode": "e42d"
+  },
+  {
+    "name": "wb_incandescent",
+    "unicode": "e42e"
+  },
+  {
+    "name": "wb_iridescent",
+    "unicode": "e436"
+  },
+  {
+    "name": "wb_sunny",
+    "unicode": "e430"
+  },
+  {
+    "name": "wc",
+    "unicode": "e63d"
+  },
+  {
+    "name": "web",
+    "unicode": "e051"
+  },
+  {
+    "name": "web_asset",
+    "unicode": "e069"
+  },
+  {
+    "name": "weekend",
+    "unicode": "e16b"
+  },
+  {
+    "name": "whatshot",
+    "unicode": "e80e"
+  },
+  {
+    "name": "widgets",
+    "unicode": "e1bd"
+  },
+  {
+    "name": "wifi",
+    "unicode": "e63e"
+  },
+  {
+    "name": "wifi_lock",
+    "unicode": "e1e1"
+  },
+  {
+    "name": "wifi_tethering",
+    "unicode": "e1e2"
+  },
+  {
+    "name": "work",
+    "unicode": "e8f9"
+  },
+  {
+    "name": "wrap_text",
+    "unicode": "e25b"
+  },
+  {
+    "name": "youtube_searched_for",
+    "unicode": "e8fa"
+  },
+  {
+    "name": "zoom_in",
+    "unicode": "e8ff"
+  },
+  {
+    "name": "zoom_out",
+    "unicode": "e900"
+  },
+  {
+    "name": "zoom_out_map",
+    "unicode": "e56b"
+  },
+  {
+    "name": ""
+  }
+]
