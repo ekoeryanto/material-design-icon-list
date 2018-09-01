@@ -1,9 +1,10 @@
 const https = require('https');
 const fs = require('fs');
+const startcase = require('lodash.startcase')
 
-const url = 'https://raw.githubusercontent.com/google/material-design-icons/master/iconfont/codepoints';
+const url = 'https://material.io/tools/icons/static/data.json';
 
-console.log('Fetching latest codepoints...');
+console.log('Fetching latest data...');
 
 https.get(url, res => {
   let data = '';
@@ -13,12 +14,20 @@ https.get(url, res => {
   });
 
   res.on('end', () => {
-    const json = data.split(/\r?\n/).map(i => {
-      const [name, unicode] = i.split(' ');
+    let json, nameId, categories;
+    try {
+      json = JSON.parse(data)
+      categories = json.categories
+      json = [].concat.apply([], json.categories.map(cat => cat.icons))
+      nameId = json.map(j => ({id: j.id, name: startcase(j.id)}))
+    } catch (error) {
+      console.error(error)
+    }
 
-      return { name, unicode };
-    });
-
-    fs.writeFileSync('./src/icons.json', JSON.stringify(json, null, 2));
+    fs.writeFileSync('./icons.json', data);
+    fs.writeFileSync('./categories.json', JSON.stringify(categories));
+    fs.writeFileSync('./id.json', JSON.stringify(json));
+    fs.writeFileSync('./name-id.json', JSON.stringify(nameId));
   });
 });
+

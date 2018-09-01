@@ -7,12 +7,12 @@ chai.expect();
 const expect = chai.expect;
 
 describe('icon list', () => {
-  it('is an array and not empty', () => {
+  it('is an object and not empty', () => {
     expect(icons)
-      .to.be.an('array').that.is.not.empty;
+      .to.be.an('object').that.is.not.empty;
   });
-  it('has object with name and unicode key', () => {
-    expect(icons[0])
-      .to.be.an('object').that.has.all.keys('name', 'unicode');
+  it('object has array of categories and not empty', () => {
+    expect(icons.categories)
+      .to.be.an('array').that.is.not.empty;
   });
 });

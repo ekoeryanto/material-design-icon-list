@@ -31,3 +31,9 @@ node_modules
 .vscode
 
 .DS_Store
+
+# generated code
+/categories.json
+/id.json
+/icons.json
+/name-id.json
