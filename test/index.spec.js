@@ -1,6 +1,6 @@
 /* global describe, it, before */
-import chai from 'chai';
-import icons from '../';
+const chai = require('chai');
+const icons = require('../');
 
 chai.expect();
 

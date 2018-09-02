@@ -21,7 +21,8 @@ https.get(url, res => {
       ids = [].concat.apply([], categories.map(cat => cat.icons));
       list = ids.map(c => c.id);
     } catch (error) {
-      console.error(error);
+      console.error('ERROR: can not parse downloaded data.');
+      process.exit(1);
     }
 
     fs.writeFileSync('./data/icons.json', data);

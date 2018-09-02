@@ -3,15 +3,16 @@
   "version": "3.0.0",
   "description": "A list Google's Material Design Icons",
   "main": "dist/list.cjs.js",
-  "module": "dist/list.es.js",
-  "browser": "dist/list.iife.js",
+  "module": "dist/list.esm.js",
+  "browser": "dist/list.js",
   "scripts": {
     "prepublishOnly": "npm run build",
-    "build": "bili \"src/*.js\" --filename \"[name][suffix].js\" --js buble --format iife,es,cjs",
-    "test": "mocha --require babel-core/register --colors ./test/*.spec.js",
+    "prebuild": "node ./download.js",
+    "build": "bili \"src/*.js\" --filename \"[name][suffix].js\" --js buble --format umd,es,cjs",
+    "test": "mocha --colors ./test/*.spec.js",
     "test:watch": "mocha --require babel-core/register --colors -w ./test/*.spec.js",
     "release": "standard-version && git push --follow-tags && npm publish",
-    "postinstall": "node ./download"
+    "postinstall": "node ./download.js"
   },
   "repository": {
     "type": "git",
@@ -36,10 +37,11 @@
   ],
   "devDependencies": {
     "babel-eslint": "^8.0.3",
-    "bili": "^3.1.2",
     "chai": "^4.1.2",
     "eslint": "^4.13.1",
     "mocha": "^4.0.1",
+    "rollup": "^0.65.0",
+    "rollup-plugin-json": "^3.0.0",
     "standard-version": "^4.3.0"
   }
 }
