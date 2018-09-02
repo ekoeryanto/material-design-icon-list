@@ -32,7 +32,8 @@
   "homepage": "https://github.com/ekoeryanto/material-design-icon-list",
   "files": [
     "dist",
-    "data"
+    "data",
+    "download.js"
   ],
   "devDependencies": {
     "babel-eslint": "^8.0.3",
