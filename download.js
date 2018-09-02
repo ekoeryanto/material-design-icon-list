@@ -1,6 +1,5 @@
 const https = require('https');
 const fs = require('fs');
-const startcase = require('lodash.startcase')
 
 const url = 'https://material.io/tools/icons/static/data.json';
 
@@ -14,20 +13,20 @@ https.get(url, res => {
   });
 
   res.on('end', () => {
-    let json, nameId, categories;
+    let json, ids, categories, list;
+
     try {
-      json = JSON.parse(data)
-      categories = json.categories
-      json = [].concat.apply([], json.categories.map(cat => cat.icons))
-      nameId = json.map(j => ({id: j.id, name: startcase(j.id)}))
+      json = JSON.parse(data);
+      categories = json.categories;
+      ids = [].concat.apply([], categories.map(cat => cat.icons));
+      list = ids.map(c => c.id);
     } catch (error) {
-      console.error(error)
+      console.error(error);
     }
 
-    fs.writeFileSync('./icons.json', data);
-    fs.writeFileSync('./categories.json', JSON.stringify(categories));
-    fs.writeFileSync('./id.json', JSON.stringify(json));
-    fs.writeFileSync('./name-id.json', JSON.stringify(nameId));
+    fs.writeFileSync('./data/icons.json', data);
+    fs.writeFileSync('./data/categories.json', JSON.stringify(categories));
+    fs.writeFileSync('./data/list.json', JSON.stringify(list));
+    fs.writeFileSync('./data/ids.json', JSON.stringify(ids));
   });
 });
-

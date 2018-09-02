@@ -1,9 +1,11 @@
-import icons from '../icons.json';
-import iconsWithId from '../id.json';
-import iconsWithName from '../name-id.json';
-import iconsCategory from '../categories.json';
+import categories from './categories';
+import icons from './icons';
+import ids from './ids';
+import list from './list';
 
-export default icons;
-export { iconsWithId };
-export { iconsWithName };
-export { iconsCategory };
+export default {
+  categories,
+  icons,
+  ids,
+  list
+};
