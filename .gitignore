@@ -33,5 +33,5 @@ node_modules
 .DS_Store
 
 # generated code
-/data
+/data/*.json
 /dist
