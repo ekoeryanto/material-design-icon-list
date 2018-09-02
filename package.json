@@ -7,10 +7,10 @@
   "browser": "dist/list.js",
   "scripts": {
     "prepublishOnly": "npm run build",
-    "build": "bili \"src/*.js\" --filename \"[name][suffix].js\" --js buble --format umd,es,cjs",
+    "build": "rollup -c",
     "test": "mocha --colors ./test/*.spec.js",
     "test:watch": "mocha --require babel-core/register --colors -w ./test/*.spec.js",
-    "release": "standard-version && git push --follow-tags && npm publish",
+    "release": "standard-version && git push --follow-tags",
     "postinstall": "node ./download.js"
   },
   "repository": {

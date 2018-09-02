@@ -5,3 +5,9 @@ install: yarn install
 script: yarn build
 notifications:
   email: false
+deploy:
+  provider: npm
+  email: "ekoeryanto@gmail.com"
+  api_key: "$NPM_TOKEN"
+  on:
+    tags: true
