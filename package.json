@@ -7,7 +7,6 @@
   "browser": "dist/list.js",
   "scripts": {
     "prepublishOnly": "npm run build",
-    "prebuild": "node ./download.js",
     "build": "bili \"src/*.js\" --filename \"[name][suffix].js\" --js buble --format umd,es,cjs",
     "test": "mocha --colors ./test/*.spec.js",
     "test:watch": "mocha --require babel-core/register --colors -w ./test/*.spec.js",
