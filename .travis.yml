@@ -10,9 +10,14 @@ before_deploy:
   - chmod 600 deploy_key
   - eval `ssh-agent -s`
   - ssh-add deploy_key
-  - cp ./.npmrc.ci $HOME/.npmrc
 deploy:
-  provider: script
-  script:
-    yarn release-it -n --preRelease=alpha
-  skip_cleanup: true
+  - provider: script
+    skip_cleanup: true
+    script:
+      yarn release-it -n --preRelease=alpha
+  - provider: npm
+    skip_cleanup: true
+    email: ekoeryanto@gmail.com
+    api_key:
+      secure: jges64r7bROWrZrvyKcstDoxs+D5NzYoJrOa7t0eKt6n4uyB/lFMOmMfA6mOAbFVyGEsSEXFPkbF/iTi53k2cAtqJVj1AxLOwIuuoTHysuj9zGpyaTtGPgFx2cFmJpym5JzVGJC8tWDR6bSZxykUSDCmjsttzdyluWJiXd06Wg+8OIDS1DZ6lvuNX6wFZn59uQldBQHrjjkrV29/NL/od/JeB4ueXlam/MMsS04c/kH/LA8oVvCrlJhjK97zznrsDdyS2wF14PD+QSJzpAHL7jWCxAk8wH+9yqpNXV9uggnezwfvBpME75MyEx8WCygAF29HYJTjzwN4FkxBqoWsO6F+QwY+FFUxNRLnU5n4hYMEbVhmIj9KwyxC2GVI7uNmFJNoqdb3TgyiEQXM/2EX6xUkdkn17qz+KoK4GcgTIP3iQQyR7l6GoMX4tjvIUyZG246a4OzQ7JH5INeggUhaNAycTxkja8GNY1gDx89il1YYmaoGHGPxKhkV9NxgDrkFUXWo26rmv7Tlmpft4EO5K5Rl373fA888mnpEhJB/sxsFjabb/Gjh4jeilGWLpbAPSHU+m+YAqV6JROjE7FowwQ6frE9DjzO18khr/6cLB2AFkteA7EfFzyEJ0m1V9RZ1ASG0GAtoZG1Iil1BBDhkzGxTmVVjdbx5xwZQG6XUOcQ=
+    tag: next

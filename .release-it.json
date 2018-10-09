@@ -12,7 +12,7 @@
     "releaseName": "Release v%s"
   },
   "npm": {
-    "publish": true
+    "publish": false
   },
   "increment": "conventional:angular",
   "beforeChangelogCommand": "conventional-changelog -p angular -i CHANGELOG.md -s",
