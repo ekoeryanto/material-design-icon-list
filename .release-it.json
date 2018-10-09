@@ -14,7 +14,6 @@
   "npm": {
     "publish": true
   },
-  "pkgFiles": ["package.json", "app/manifest.json"],
   "increment": "conventional:angular",
   "beforeChangelogCommand": "conventional-changelog -p angular -i CHANGELOG.md -s",
   "changelogCommand": "conventional-changelog -p angular | tail -n +3",
