@@ -13,6 +13,5 @@ before_deploy:
 deploy:
   provider: script
   script:
-    echo '//registry.npmjs.org/:_authToken=${NPM_TOKEN}' > $HOME/.npmrc;
-    yarn release-it -n --preRelease=alpha patch
+    echo '//registry.npmjs.org/:_authToken=${NPM_TOKEN}' > $HOME/.npmrc && yarn release-it -n --preRelease=alpha
   skip_cleanup: true
