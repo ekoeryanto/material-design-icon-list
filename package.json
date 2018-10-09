@@ -7,7 +7,7 @@
   "browser": "dist/list.js",
   "scripts": {
     "prepublishOnly": "yarn run build",
-    "build": "rollup -c",
+    "build": "yarn rollup -c",
     "test": "mocha --colors ./test/*.spec.js",
     "test:watch": "mocha --require babel-core/register --colors -w ./test/*.spec.js",
     "release": "standard-version && git push --follow-tags",
