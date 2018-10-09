@@ -1,3 +1,8 @@
+<a name="3.1.1"></a>
+## [3.1.1](https://github.com/ekoeryanto/material-design-icon-list/compare/v3.1.0...v3.1.1) (2018-10-09)
+
+
+
 <a name="3.1.0"></a>
 # [3.1.0](https://github.com/ekoeryanto/material-design-icon-list/compare/v3.0.3...v3.1.0) (2018-10-09)
 
