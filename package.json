@@ -5,16 +5,15 @@
   "main": "dist/list.cjs.js",
   "module": "dist/list.esm.js",
   "browser": "dist/list.js",
-  "scripts": {
-    "build": "rollup -c",
-    "test": "mocha --colors ./test/*.spec.js",
-    "test:watch": "mocha --require babel-core/register --colors -w ./test/*.spec.js",
-    "release": "standard-version && git push --follow-tags",
-    "postinstall": "node ./download.js"
-  },
+  "author": "Eko Eryanto",
+  "license": "MIT",
+  "homepage": "https://github.com/ekoeryanto/material-design-icon-list",
   "repository": {
     "type": "git",
     "url": "https://github.com/ekoeryanto/material-design-icon-list.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ekoeryanto/material-design-icon-list/issues"
   },
   "keywords": [
     "material",
@@ -23,24 +22,25 @@
     "list",
     "json"
   ],
-  "author": "Eko Eryanto",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ekoeryanto/material-design-icon-list/issues"
-  },
-  "homepage": "https://github.com/ekoeryanto/material-design-icon-list",
   "files": [
     "dist",
     "data",
     "download.js"
   ],
+  "scripts": {
+    "prebuild": "node ./download.js",
+    "build": "rollup -c",
+    "test": "mocha --colors ./test/*.spec.js",
+    "test:watch": "mocha --require babel-core/register --colors -w ./test/*.spec.js"
+  },
   "devDependencies": {
     "babel-eslint": "^8.0.3",
     "chai": "^4.1.2",
+    "conventional-changelog-cli": "^2.0.5",
     "eslint": "^4.13.1",
     "mocha": "^4.0.1",
+    "release-it": "^7.6.1",
     "rollup": "^0.65.0",
-    "rollup-plugin-json": "^3.0.0",
-    "standard-version": "^4.3.0"
+    "rollup-plugin-json": "^3.0.0"
   }
 }

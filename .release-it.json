@@ -1,0 +1,22 @@
+{
+  "src": {
+    "tagName": "v%s",
+    "commitMessage": "chore: release v%s [ci skip]",
+    "tagAnnotation": "Release v%s",
+    "beforeStartCommand": "git checkout master",
+    "pushRepo": "git@github.com:ekoeryanto/material-design-icon-list.git"
+  },
+  "github": {
+    "release": true,
+    "tokenRef": "GH_TOKEN",
+    "releaseName": "Release v%s"
+  },
+  "npm": {
+    "publish": true
+  },
+  "pkgFiles": ["package.json", "app/manifest.json"],
+  "increment": "conventional:angular",
+  "beforeChangelogCommand": "conventional-changelog -p angular -i CHANGELOG.md -s",
+  "changelogCommand": "conventional-changelog -p angular | tail -n +3",
+  "safeBump": false
+}
