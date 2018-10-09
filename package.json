@@ -28,7 +28,7 @@
     "download.js"
   ],
   "scripts": {
-    "prebuild": "node ./download.js",
+    "postinstall": "node ./download.js",
     "build": "rollup -c",
     "test": "mocha --colors ./test/*.spec.js",
     "test:watch": "mocha --require babel-core/register --colors -w ./test/*.spec.js"
