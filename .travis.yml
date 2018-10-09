@@ -10,8 +10,9 @@ before_deploy:
   - chmod 600 deploy_key
   - eval `ssh-agent -s`
   - ssh-add deploy_key
+  - cp ./.npmrc.ci $HOME/.npmrc
 deploy:
   provider: script
   script:
-    echo '//registry.npmjs.org/:_authToken=${NPM_TOKEN}' > $HOME/.npmrc && yarn release-it -n --preRelease=alpha
+    yarn release-it -n --preRelease=alpha
   skip_cleanup: true
