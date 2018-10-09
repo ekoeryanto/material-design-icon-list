@@ -1,30 +1,24 @@
 /* global describe, it, before */
 const chai = require('chai');
-const list = require('../dist/list.cjs');
-const categories = require('../dist/categories.cjs');
+const icons = require('../data/icons.json');
 
 chai.expect();
 
 const expect = chai.expect;
 
-describe('icon list', () => {
-  it('is an array and not empty', () => {
-    expect(list)
-      .to.be.an('array').that.is.not.empty;
+describe('icons', () => {
+  it('is an object with categories', () => {
+    expect(icons).to.be.an('object').to.have.property('categories');
   });
-  // it('object has array of categories and not empty', () => {
-  //   expect(icons.categories)
-  //     .to.be.an('array').that.is.not.empty;
-  // });
+  it('`.categories` is not an empty array', () => {
+    expect(icons.categories).to.be.an('array').that.is.not.empty;
+  });
+  it('`.categories` has icons (non empty array) and name (string)', () => {
+    icons.categories.every(i => {
+      expect(i).to.be.an('object').that.has.all.keys('icons', 'name');
+      expect(i.icons).to.be.an('array').that.is.not.empty;
+      expect(i.name).to.be.an('string');
+    });
+  });
 });
 
-describe('icon categories', () => {
-  it('is an array and not empty', () => {
-    expect(categories)
-      .to.be.an('array').that.is.not.empty;
-  });
-  it('array contain object of icons', () => {
-    expect(categories[0])
-      .to.be.an('object').to.have.property('icons');
-  });
-});
