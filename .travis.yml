@@ -13,5 +13,5 @@ before_deploy:
   - ssh-add deploy_key
 deploy:
   provider: script
-  script: yarn release-it -n patch
+  script: yarn release-it -n --preRelease=alpha patch
   skip_cleanup: true
