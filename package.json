@@ -1,6 +1,6 @@
 {
   "name": "material-design-icon-list",
-  "version": "3.0.3",
+  "version": "3.1.0",
   "description": "A list Google's Material Design Icons",
   "main": "dist/list.cjs.js",
   "module": "dist/list.esm.js",

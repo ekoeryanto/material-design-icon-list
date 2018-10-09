@@ -1,3 +1,8 @@
+<a name="3.1.0"></a>
+# [3.1.0](https://github.com/ekoeryanto/material-design-icon-list/compare/v3.0.3...v3.1.0) (2018-10-09)
+
+
+
 # Change Log
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
