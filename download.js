@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 const https = require('https');
 const fs = require('fs');
 

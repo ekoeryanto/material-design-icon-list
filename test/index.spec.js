@@ -1,4 +1,4 @@
-/* global describe, it, before */
+/* global describe, it */
 const chai = require('chai');
 const icons = require('../data/icons.json');
 

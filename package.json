@@ -34,7 +34,6 @@
     "test:watch": "mocha --require babel-core/register --colors -w ./test/*.spec.js"
   },
   "devDependencies": {
-    "babel-eslint": "^8.0.3",
     "chai": "^4.1.2",
     "conventional-changelog-cli": "^2.0.5",
     "eslint": "^4.13.1",
