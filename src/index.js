@@ -1,11 +1,4 @@
-import categories from './categories';
-import icons from './icons';
-import ids from './ids';
-import list from './list';
-
-export default {
-  categories,
-  icons,
-  ids,
-  list
-};
+export { default as categories } from './categories';
+export { default as icons } from './icons';
+export { default as ids } from './ids';
+export { default as list } from './list';
