@@ -1,6 +1,7 @@
 /* eslint-disable no-console */
 const https = require('https');
 const fs = require('fs');
+const path = require('path')
 
 const url = 'https://material.io/tools/icons/static/data.json';
 
@@ -26,9 +27,11 @@ https.get(url, res => {
       process.exit(1);
     }
 
-    fs.writeFileSync('./data/icons.json', data);
-    fs.writeFileSync('./data/categories.json', JSON.stringify(categories));
-    fs.writeFileSync('./data/list.json', JSON.stringify(list));
-    fs.writeFileSync('./data/ids.json', JSON.stringify(ids));
+    const listFile = list => path.resolve(__dirname, '..', 'data', `${list}.json`)
+
+    fs.writeFileSync(listFile('icons'), data);
+    fs.writeFileSync(listFile('categories'), JSON.stringify(categories));
+    fs.writeFileSync(listFile('list'), JSON.stringify(list));
+    fs.writeFileSync(listFile('ids'), JSON.stringify(ids));
   });
 });
