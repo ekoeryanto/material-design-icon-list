@@ -22,11 +22,6 @@
     "list",
     "json"
   ],
-  "files": [
-    "dist",
-    "data",
-    "download.js"
-  ],
   "scripts": {
     "postinstall": "node ./download.js",
     "build": "rollup -c",

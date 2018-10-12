@@ -1,0 +1,9 @@
+.editorconfig
+.eslintrc.yml
+.release-it.json
+.travis.yml
+deploy_key.enc
+deploy_key
+rollup.config.js
+yarn.lock
+*.log
