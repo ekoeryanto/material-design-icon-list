@@ -1,3 +1,13 @@
+<a name="4.0.0-nightly.0"></a>
+# [4.0.0-nightly.0](https://github.com/ekoeryanto/material-design-icon-list/compare/v3.2.1-nightly.8...v4.0.0-nightly.0) (2018-10-12)
+
+
+### Features
+
+* iife for small bundle ([0b37032](https://github.com/ekoeryanto/material-design-icon-list/commit/0b37032))
+
+
+
 <a name="3.2.1-nightly.8"></a>
 ## [3.2.1-nightly.8](https://github.com/ekoeryanto/material-design-icon-list/compare/v3.2.1-nightly.7...v3.2.1-nightly.8) (2018-10-12)
 
