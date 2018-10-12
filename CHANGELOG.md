@@ -1,3 +1,13 @@
+<a name="4.0.1"></a>
+## [4.0.1](https://github.com/ekoeryanto/material-design-icon-list/compare/v4.0.1-nightly.0...v4.0.1) (2018-10-12)
+
+
+### Bug Fixes
+
+* download file to absolute path ([1df7137](https://github.com/ekoeryanto/material-design-icon-list/commit/1df7137))
+
+
+
 <a name="4.0.1-nightly.0"></a>
 ## [4.0.1-nightly.0](https://github.com/ekoeryanto/material-design-icon-list/compare/v4.0.0...v4.0.1-nightly.0) (2018-10-12)
 
