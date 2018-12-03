@@ -1,3 +1,8 @@
+<a name="4.0.2-nightly.52"></a>
+## [4.0.2-nightly.52](https://github.com/ekoeryanto/material-design-icon-list/compare/v4.0.2-nightly.51...v4.0.2-nightly.52) (2018-12-03)
+
+
+
 <a name="4.0.2-nightly.51"></a>
 ## [4.0.2-nightly.51](https://github.com/ekoeryanto/material-design-icon-list/compare/v4.0.2-nightly.50...v4.0.2-nightly.51) (2018-12-02)
 
